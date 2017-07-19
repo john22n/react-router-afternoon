@@ -1,0 +1,13 @@
+.Nav-navlist {
+    list-style-type: none;
+    display: inline;
+}
+ li {
+    display: inline;
+     margin: 10px;
+
+}
+
+ a.Link-planet {
+     text-decoration: none;
+ }
